@@ -26,3 +26,7 @@ computational topics and papers, often presented by their authors.
 It is co-organised by [Yara Sanchez Corrales](https://profiles.ucl.ac.uk/77936-yara-elena-sanchez-corrales) and [George Hall](https://ghall.co.uk), two postdoctoral research fellows in the lab of Prof Sergi Castellano. If you are interested in speaking, please [get in touch](mailto:y.sanchez-corrales@ucl.ac.uk;george.hall@ucl.ac.uk)! Our club hosts both internal and external speakers.
 
 A list of our previous and upcoming sessions can be found [here](./talks).
+
+<br><br>
+
+<center><img src="assets/img/dna.png" alt="Image of DNA" width="30%"/></center>
