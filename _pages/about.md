@@ -28,3 +28,17 @@ A list of our previous and upcoming sessions can be found [here](./talks).
 <br>
 
 <center><img src="assets/img/dna.png" alt="Image of DNA" width="15%"/></center>
+
+<br>
+
+<center><h4><u>Next session</u></h4></center>
+
+**Speaker:** Gon&#231;alo Correia (Imperial College London)
+
+**Title:** TBC
+
+**Abstract:** TBC
+
+**Where:** In-person at the Zayed Centre for Research and online via Zoom
+
+**When:** Thursday 25 September at 2pm
