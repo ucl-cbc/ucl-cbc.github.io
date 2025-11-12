@@ -29,17 +29,21 @@ A list of our previous and upcoming sessions can be found [here](./talks).
 
 <center><h4><u>Next session</u></h4></center>
 
-**Speaker:** Gon&#231;alo Correia (Imperial College London)
+**Speaker:** Elisabetta Sciacca (Queen Mary University of London)
 
-**Title:** Systems biology approaches to characterise host-microbe interactions during pregnancy
+**Title:** What If Molecular Relationships Matter More Than Individual Genes?
 
-**Abstract:** Preterm birth remains the leading cause of maternal and neonatal morbidity and mortality globally and in the UK. Infection and perturbed host-microbe interactions are among the risk factors for spontaneous preterm birth. A healthy vaginal microbiome is characterised by ecological dominance of Lactobacillus spp. such as L. crispatus. Conversely, high diversity microbial communities often enriched with G. vaginalis and mixed anaerobes are associated not only with prematurity, but also with other adverse pregnancy and reproductive outcomes. However, these high diversity vaginal bacterial communities are also found frequently in healthy and asymptomatic pregnancies. To understand the individual differences in the host response these communities elicit, methods that capture the functional status of communities, not just their taxonomic composition, are required.
-In this talk I will give an overview of my research using multi-omics, including microbiome profiling and mass spectrometry metabolomics, and computational data integration methods to characterise host-microbe interactions in reproductive mucosa and better understand how the functional status of microbial communities impacts pregnancy outcomes.
-
+**Abstract:** Traditional Differential Gene Expression analysis (DGE) leaves researchers with hundreds of 'significant' genes but no clear biological story. We developed multiDEGGs, a CRAN package for differential network analysis which enables interactive exploration of differential interactions (with statistical significance) from single or multi-omics datasets.
+<br>
+Beyond biomarker discovery, the differential interactions can be used for prediction purposes.
+<br>
+The package facilitates seamless integration into cross-validation machine learning pipelines, serving as feature selection and augmentation tool.
+<br>
+We systematically compared multiDEGGs against five traditional feature selection methods. On average, AUC values obtained with multiDEGGs showed an improvement of 0.10 compared to conventional filters.
 
 **Where:** In-person at the Zayed Centre for Research and online via Zoom
 
-**When:** Thursday 25 September at 2pm
+**When:** Thursday 20 November at 2pm
 
 <br><br>
 
