@@ -29,21 +29,15 @@ A list of our previous and upcoming sessions can be found [here](./talks).
 
 <center><h4><u>Next session</u></h4></center>
 
-**Speaker:** Elisabetta Sciacca (Queen Mary University of London)
+**Speaker:** Stella Prins and Georg Otto (UCL’s Centre for Advanced Research Computing)
 
-**Title:** What If Molecular Relationships Matter More Than Individual Genes?
+**Title:** Collaborative Life Sciences Research at UCL's Advanced Research Computing Centre
 
-**Abstract:** Traditional Differential Gene Expression analysis (DGE) leaves researchers with hundreds of 'significant' genes but no clear biological story. We developed multiDEGGs, a CRAN package for differential network analysis which enables interactive exploration of differential interactions (with statistical significance) from single or multi-omics datasets.
-<br>
-Beyond biomarker discovery, the differential interactions can be used for prediction purposes.
-<br>
-The package facilitates seamless integration into cross-validation machine learning pipelines, serving as feature selection and augmentation tool.
-<br>
-We systematically compared multiDEGGs against five traditional feature selection methods. On average, AUC values obtained with multiDEGGs showed an improvement of 0.10 compared to conventional filters.
+**Abstract:** Georg and Stella are Research Technology Professionals affiliated with UCL’s Centre for **Advanced Research Computing** (ARC). They will present ARC as both an academic and professional services department, highlighting past and ongoing collaborations with life scientists at UCL. These include work on the **udetect** tool for uveitis detection with researchers at the Institute of Child Health (ICH); collaborations with the Sainsbury Wellcome Centre on their **movement** and **BrainGlobe** innitiatives; and work on **Epitools** developed by researchers at the Tissue Mechanics Lab at the Laboratory of Molecular Cell Biology. Furthermore, Georg will discuss ARC’s involvement in the **UCL human genomics** initiative.
 
 **Where:** In-person at the Zayed Centre for Research and online via Zoom
 
-**When:** Thursday 20 November at 2pm
+**When:** Thursday 22 January at 2pm
 
 <br><br>
 
