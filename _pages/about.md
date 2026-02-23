@@ -29,15 +29,15 @@ A list of our previous and upcoming sessions can be found [here](./talks).
 
 <center><h4><u>Next session</u></h4></center>
 
-**Speaker:** Stella Prins and Georg Otto (UCL’s Centre for Advanced Research Computing)
+**Speaker:** Timothy Little (UCL Respiratory)
 
-**Title:** Collaborative Life Sciences Research at UCL's Advanced Research Computing Centre
+**Title:** Multimodal single cell analysis of late foetal human organ maturation
 
-**Abstract:** Georg and Stella are Research Technology Professionals affiliated with UCL’s Centre for **Advanced Research Computing** (ARC). They will present ARC as both an academic and professional services department, highlighting past and ongoing collaborations with life scientists at UCL. These include work on the **udetect** tool for uveitis detection with researchers at the Institute of Child Health (ICH); collaborations with the Sainsbury Wellcome Centre on their **movement** and **BrainGlobe** innitiatives; and work on **Epitools** developed by researchers at the Tissue Mechanics Lab at the Laboratory of Molecular Cell Biology. Furthermore, Georg will discuss ARC’s involvement in the **UCL human genomics** initiative.
+**Abstract:** Babies undergo major developmental changes in anticipation of birth, however capturing the cell biology of these transitions involves ethical considerations and extensive logistical challenges. Our Perinatal Organ Maturation Study has been able to gain access to this time _in utero_, letting us explore the immune system in the third trimester of pregnancy in single-cell detail. Early results of 10x Genomics 5’ CITEseq and Multi-ome analysis will be presented.
 
 **Where:** In-person at the Zayed Centre for Research and online via Zoom
 
-**When:** Thursday 22 January at 2pm
+**When:** Thursday 5 March at 2pm
 
 <br><br>
 
