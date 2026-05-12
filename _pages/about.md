@@ -29,15 +29,21 @@ A list of our previous and upcoming sessions can be found [here](./talks).
 
 <center><h4><u>Next session</u></h4></center>
 
-**Speaker:** Timothy Little (UCL Respiratory)
+**Speaker:** David Perez-Suarez (UCL’s Centre for Advanced Research Computing)
 
-**Title:** Multimodal single cell analysis of late foetal human organ maturation
+**Title:** Using Version Control to manage (almost everything on) your life - a git/GitHub walk through
 
-**Abstract:** Babies undergo major developmental changes in anticipation of birth, however capturing the cell biology of these transitions involves ethical considerations and extensive logistical challenges. Our Perinatal Organ Maturation Study has been able to gain access to this time _in utero_, letting us explore the immune system in the third trimester of pregnancy in single-cell detail. Early results of 10x Genomics 5’ CITEseq and Multi-ome analysis will be presented.
+**Abstract:**
+<br><br>
+Have you found yourself lost with multiple versions of the same file? Have you tried to incorporate reviews of colleagues into a piece of work and not being sure how to manage the conversation? If any of those questions sounds familiar, then git may be a solution to all your problems! Come to this interactive¹ walk through the main features of version control and help us to build a nice website to decide where to go for holidays next.
+<br><br>
+At the end of this workshop you will be able: to know why (and when) git/GitHub is useful; to understand how to use a git-forge to work with others; to explain some common terminology; and to use markdown to format text on a website.
+<br><br>
+¹ If you want to actively participate please, fill this form to tell us who you are and get invited to the activity. https://forms.office.com/e/C13bJYAugk.
 
 **Where:** In-person at the Zayed Centre for Research and online via Zoom
 
-**When:** Thursday 5 March at 2pm
+**When:** Thursday 14 May at 2pm
 
 <br><br>
 
