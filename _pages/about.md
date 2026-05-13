@@ -29,7 +29,7 @@ A list of our previous and upcoming sessions can be found [here](./talks).
 
 <center><h4><u>Next session</u></h4></center>
 
-**Speaker:** David Perez-Suarez (UCL’s Centre for Advanced Research Computing)
+**Speaker:** David Pérez-Suárez (UCL’s Centre for Advanced Research Computing)
 
 **Title:** Using Version Control to manage (almost everything on) your life - a git/GitHub walk through
 
