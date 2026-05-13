@@ -39,7 +39,7 @@ Have you found yourself lost with multiple versions of the same file? Have you t
 <br><br>
 At the end of this workshop you will be able: to know why (and when) git/GitHub is useful; to understand how to use a git-forge to work with others; to explain some common terminology; and to use markdown to format text on a website.
 <br><br>
-¹ If you want to actively participate please, fill this form to tell us who you are and get invited to the activity. https://forms.office.com/e/C13bJYAugk.
+¹ If you want to actively participate please, fill this form to tell us who you are and get invited to the activity. [https://forms.office.com/e/C13bJYAugk](https://forms.office.com/e/C13bJYAugk).
 
 **Where:** In-person at the Zayed Centre for Research and online via Zoom
 
