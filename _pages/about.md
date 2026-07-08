@@ -29,21 +29,16 @@ A list of our previous and upcoming sessions can be found [here](./talks).
 
 <center><h4><u>Next session</u></h4></center>
 
-**Speaker:** David Pérez-Suárez (UCL’s Centre for Advanced Research Computing)
+**Speaker:** Julia Zöllner (UCL EGA Institute for Women’s Health)
 
-**Title:** Using Version Control to manage (almost everything on) your life - a git/GitHub walk through
+**Title:** Gestational diabetes and progression to type 2 diabetes: insights from omics
 
 **Abstract:**
-<br><br>
-Have you found yourself lost with multiple versions of the same file? Have you tried to incorporate reviews of colleagues into a piece of work and not being sure how to manage the conversation? If any of those questions sounds familiar, then git may be a solution to all your problems! Come to this interactive¹ walk through the main features of version control and help us to build a nice website to decide where to go for holidays next.
-<br><br>
-At the end of this workshop you will be able: to know why (and when) git/GitHub is useful; to understand how to use a git-forge to work with others; to explain some common terminology; and to use markdown to format text on a website.
-<br><br>
-¹ If you want to actively participate please, fill this form to tell us who you are and get invited to the activity. [https://forms.office.com/e/C13bJYAugk](https://forms.office.com/e/C13bJYAugk).
+Gestational diabetes is one of the strongest risk factors for future type 2 diabetes, yet the biological pathways underlying progression after pregnancy remain incompletely understood. This session will explore how omics approaches can help characterise the mechanisms linking gestational diabetes to later metabolic disease, with a focus on identifying early markers of risk and progression. Emerging findings from genetic and multi-omic studies will be discussed, alongside their potential to improve health care.
 
-**Where:** In-person at the Zayed Centre for Research and online via Zoom
+**Where:** In-person at the Zayed Centre for Research and online [via Zoom](https://ucl.zoom.us/j/99412969243?pwd=bKnu8EyY4obej0aECJcpnUhIpoSFFa.1). External attendees - please tell us in advance if you plan to join in-person!
 
-**When:** Thursday 14 May at 2pm
+**When:** Thursday 9th July, 2pm-3pm
 
 <br><br>
 
